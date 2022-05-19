@@ -25,7 +25,7 @@ Pastikan webserver Apache dan MySQL server sudah dijalankan. Kemudian buka melal
 ![img1!](assets/img/2/3.png)
 
 ## 3. Membuat Program CRUD
-Buat folder lab8_php_database pada root directory web server (d:\xampp\htdocs)
+Buat folder lab8_php_database pada root directory web server (/Application/xampp/htdocs)
 
 ![img1!](assets/img/3/1.png)
 
