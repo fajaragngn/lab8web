@@ -57,3 +57,10 @@ Buat file baru dengan nama tambah.php
 ![img1!](assets/img/3/8.png)
 
 ![img1!](assets/img/3/9.png)
+
+### Mengubah Data (Update)
+Buat file baru dengan nama ubah.php
+
+![img1!](assets/img/3/10.png)
+
+![img1!](assets/img/3/11.png)
