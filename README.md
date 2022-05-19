@@ -56,9 +56,9 @@ Buat file baru dengan nama tambah.php
 
 ![img1!](assets/img/3/8.png)
 
-![img1!](assets/img/3/t.png)
+![img1!](assets/img/3/tambah1.png)
 
-![img1!](assets/img/3/tambah.png)
+![img1!](assets/img/3/t.png)
 
 ## Mengubah Data (Update)
 Buat file baru dengan nama ubah.php
