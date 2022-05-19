@@ -33,3 +33,12 @@ Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL
 http://localhost/lab8_php_database/
 
 ![img1!](assets/img/3/2.png)
+
+### Membuat file koneksi database
+Buat file baru dengan nama koneksi.php
+
+![img1!](assets/img/3/3.png)
+
+Buka melalui browser untuk menguji koneksi database (untuk menyampilkan pesan koneksi berhasil, uncomment pada perintah echo “koneksi berhasil”;
+
+![img1!](assets/img/3/4.png)
