@@ -34,7 +34,7 @@ http://localhost/lab8_php_database/
 
 ![img1!](assets/img/3/2.png)
 
-### Membuat file koneksi database
+## Membuat file koneksi database
 Buat file baru dengan nama koneksi.php
 
 ![img1!](assets/img/3/3.png)
@@ -43,14 +43,14 @@ Buka melalui browser untuk menguji koneksi database (untuk menyampilkan pesan ko
 
 ![img1!](assets/img/3/4.png)
 
-### Membuat file index untuk menampilkan data (Read)
+## Membuat file index untuk menampilkan data (Read)
 Buat file baru dengan nama index.php
 
 ![img1!](assets/img/3/55.png)
 
 ![img1!](assets/img/3/66.png)
 
-### Menambah Data (Create)
+## Menambah Data (Create)
 Buat file baru dengan nama tambah.php
 ![img1!](assets/img/3/7.png)
 
@@ -58,7 +58,7 @@ Buat file baru dengan nama tambah.php
 
 ![img1!](assets/img/3/9.png)
 
-### Mengubah Data (Update)
+## Mengubah Data (Update)
 Buat file baru dengan nama ubah.php
 
 ![img1!](assets/img/3/20.png)
@@ -67,7 +67,7 @@ Buat file baru dengan nama ubah.php
 
 ![img1!](assets/img/3/11.png)
 
-### Menghapus Data (Delete)
+## Menghapus Data (Delete)
 Buat file baru dengan nama hapus.php
 
 ![img1!](assets/img/3/22.png)
