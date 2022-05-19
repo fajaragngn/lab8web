@@ -46,7 +46,7 @@ Buka melalui browser untuk menguji koneksi database (untuk menyampilkan pesan ko
 ### Membuat file index untuk menampilkan data (Read)
 Buat file baru dengan nama index.php
 
-![img1!](assets/img/3/5.png)
+![img1!](assets/img/3/55.png)
 
 ![img1!](assets/img/3/66.png)
 
