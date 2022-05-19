@@ -10,5 +10,5 @@ Untuk menjalankan MySQL Server dari menu XAMPP Control.
 
 ![img1!](assets/img/1/1.png)
 
-## 2. Menjalankan web server
-Untuk menjalankan web server dari menu XAMPP Control
+### Mengakses MySQL Client menggunakan PHP MyAdmin
+Pastikan webserver Apache dan MySQL server sudah dijalankan. Kemudian buka melalui browser: http://localhost/phpmyadmin/
