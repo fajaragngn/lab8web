@@ -52,3 +52,8 @@ Buat file baru dengan nama index.php
 
 ### Menambah Data (Create)
 Buat file baru dengan nama tambah.php
+![img1!](assets/img/3/7.png)
+
+![img1!](assets/img/3/8.png)
+
+![img1!](assets/img/3/9.png)
