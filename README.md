@@ -20,3 +20,6 @@ Pastikan webserver Apache dan MySQL server sudah dijalankan. Kemudian buka melal
 
 ### Membuat tabel
 ![img1!](assets/img/2/2.png)
+
+### Menambahkan Data
+![img1!](assets/img/2/3.png)
