@@ -69,3 +69,9 @@ Buat file baru dengan nama ubah.php
 
 ### Menghapus Data (Delete)
 Buat file baru dengan nama hapus.php
+
+![img1!](assets/img/3/22.png)
+
+![img1!](assets/img/3/23.png)
+
+![img1!](assets/img/3/24.png)
