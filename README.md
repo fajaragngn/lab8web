@@ -23,3 +23,13 @@ Pastikan webserver Apache dan MySQL server sudah dijalankan. Kemudian buka melal
 
 ### Menambahkan Data
 ![img1!](assets/img/2/3.png)
+
+## 3. Membuat Program CRUD
+Buat folder lab8_php_database pada root directory web server (d:\xampp\htdocs)
+
+![img1!](assets/img/3/1.png)
+
+Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL:
+http://localhost/lab8_php_database/
+
+![img1!](assets/img/3/2.png)
